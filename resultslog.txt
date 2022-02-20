@@ -1,0 +1,45 @@
+DecisionTreeRegressor()
+Mean: 76.44330332879493
+Standard Deviation: 33.201595394446194
+
+
+LinearRegression()
+Mean: 40.03296301995422
+Standard Deviation: 23.459652537669218
+
+PoissonRegressor()
+Mean: 39.29063704558216
+Standard Deviation: 23.64623181238043
+
+HuberRegressor()
+Mean: 39.33406651074778
+Standard Deviation: 24.952251016578067
+
+TweedieRegressor()
+Mean: 38.51010577420049
+Standard Deviation: 24.288586427568415
+
+PassiveAggressiveRegressor()
+Mean: 40.26622130603822
+Standard Deviation: 23.8275363780035
+
+KNeighborsRegressor()
+Mean: 43.987721710622154
+Standard Deviation: 19.980634250666416
+
+RandomForestRegressor()
+Mean: 48.105348454814205
+Standard Deviation: 21.362808159428273
+
+HistGradientBoostingRegressor()
+Mean: 43.13124555596012
+Standard Deviation: 22.112083005151224
+
+MLPRegressor()
+Mean: 39.004401850829915
+Standard Deviation: 23.83440323389947
+
+TheilSenRegressor(max_subpopulation=10000)
+Mean: 38.633191645022606
+Standard Deviation: 24.95963050965505
+
